@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BDNPodTestLibrary_Tests' do
+  pod 'BDNPodTestLibrary', :path => '../'
+  
+  
+end
