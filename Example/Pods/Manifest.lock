@@ -1,0 +1,14 @@
+PODS:
+  - BDNPodTestLibrary (0.1.0)
+
+DEPENDENCIES:
+  - BDNPodTestLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  BDNPodTestLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BDNPodTestLibrary: 6cd0ce0b8a98f8d5941e19f45fc1b4423728248a
+
+COCOAPODS: 0.38.2

@@ -1,0 +1,6 @@
+framework module BDNPodTestLibrary {
+  umbrella header "BDNPodTestLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
